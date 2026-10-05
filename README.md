@@ -1,4 +1,4 @@
-# Projekt Alfa
+# Konflikt na gałęzi
 Witam,
 Nazywam się Patryk Jane
 ## Autor Bartek
