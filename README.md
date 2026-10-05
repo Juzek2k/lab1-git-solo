@@ -1,4 +1,5 @@
-# Lab 1 - Dzień dobry Państwu
+# Projekt Alfa
 Witam,
 Nazywam się Patryk Jane
 ## Autor Bartek
+Gdzie pieniadze sa za las
