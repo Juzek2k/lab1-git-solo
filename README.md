@@ -1,4 +1,4 @@
-# Projekt Beta
+# Projekt Alfa
 Witam,
 Nazywam się Patryk Jane
 ## Autor Bartek
