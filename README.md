@@ -1,2 +1,3 @@
 # Lab 1 - git
-Witam
+Witam,
+Nazywam się Patryk Jane
